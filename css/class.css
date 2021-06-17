@@ -1,0 +1,258 @@
+/* 动画 */
+@keyframes guoDu{
+	from{opacity: 1;}
+	to{opacity: 0;}
+}
+
+
+@keyframes guoDu2{
+	from{opacity: 0;}
+	to{opacity: 1;}
+}
+
+@keyframes guoDu3{
+	from{opacity: 1;}
+	to{opacity: 0.5;}
+}
+
+@keyframes guoDu4{
+	from{opacity: 0;}
+	to{opacity: 0.8;}
+}
+
+
+@keyframes guoDu5{
+	from{opacity: 0.5;}
+	to{opacity: 1;}
+}
+
+@keyframes guoDu6{
+	from{opacity: 0.8;}
+	to{opacity: 0;}
+}
+
+@keyframes guoDu7{
+	from{opacity: 0.5;}
+	to{opacity: 0;}
+}
+
+.confirm_common{
+	background-color: #C8C8C8;
+}
+
+.confirm_color{
+	background-color: rgb(39,39,39);
+}
+
+.font_white{
+	color: white;
+}
+
+.font_black{
+	color: black;
+}
+
+.animation1{
+	animation: guoDu 2s;
+}
+
+.animation1_0_5{
+	animation: guoDu 1s;
+}
+
+.animation1_1{
+	animation: guoDu6 2s;
+}
+
+.animation2{
+	animation: guoDu2 3s;
+}
+
+.animation2_0_5{
+	animation: guoDu2 1s;
+}
+
+.animation3{
+	animation: guoDu3 0.5s;
+}
+
+.animation4{
+	animation: guoDu4 0.5s;
+}
+
+
+.animation5{
+	animation: guoDu5 0.5s;
+}
+
+.animation6{
+	animation: guoDu6 0.5s;
+}
+
+.animation7{
+	animation: guoDu7 2s;
+}
+
+.animation8{
+	animation: guoDu7 0.5s;
+}
+
+/* 其他类 */
+.display_none{
+	display: none;
+}
+
+
+.display_block{
+	display: block;
+}
+
+.display_inline{
+	display: inline;
+}
+
+.display_ib{
+	display: inline-block;
+}
+
+.opacity_1{
+	opacity: 1;
+}
+
+.opacity_0_8{
+	opacity: 0.8;
+}
+
+.opacity_0_5{
+	opacity: 0.5;
+}
+
+.opacity_0{
+	opacity: 0;
+}
+
+
+/* li 的高度类 */
+.height_1{
+	height: 0.15rem;
+}
+
+.height_2{
+	height: 0.2rem;
+}
+
+.height_3{
+	height: 0.25rem;
+}
+
+.height_4{
+	height: 0.3rem;
+}
+
+.height_5{
+	height: 0.35rem;
+}
+
+.height_6{
+	height: 0.4rem;
+}
+
+.height_7{
+	height: 0.45rem;
+}
+
+.height_8{
+	height: 0.5rem;
+}
+
+.height_9{
+	height: 0.55rem;
+}
+
+.height_10{
+	height: 0.6rem;
+}
+
+/* li中调节大小用此样式改变背景颜色 */
+
+.confirm_changeBg{
+	background-color: rgb(39,39,39);
+}
+
+.display_flex{
+	display: flex;
+}
+
+/* 背景图片类 */
+.bg_index{
+	background-image: url(../img/bg/bg1.jpg);
+}
+
+.bg1{
+	background-image: url(../img/bg/客厅.jpg);
+}
+
+.bg2{
+	background-image: url(../img/bg/校园-2人女寝-阳光.jpg)
+}
+
+.bg3{
+	background-image: url(../img/bg/便利店.png);
+}
+
+.bg4{
+	background-image: url(../img/bg/商品小卖部.png);
+}
+
+.bg5{
+	background-image: url(../img/bg/医院.png);
+}
+
+.bg6{
+	background-image: url(../img/bg/校园-2人女寝-阳光.jpg);
+}
+
+.bg7{
+	background-image: url(../img/bg/厨房.png);
+}
+
+.bg8{
+	background-image: url(../img/bg/校园-2人女寝-夜晚.jpg);
+}
+
+.bg9{
+	background-image: url(../img/bg/街道.jpg);
+}
+
+.bg10{
+	background-image: url(../img/bg/校门.png);
+}
+
+.bg11{
+	background-image: url(../img/bg/教室.jpg);
+}
+
+.bg12{
+	background-image: url(../img/bg/实验室夹道.jpg);
+}
+
+.bg13{
+	background-image: url(../img/bg/房间1.jpg);
+}
+
+
+.bg14{
+	background-image: url(../img/bg/房间1%20(2).jpg);
+}
+
+.bg15{
+	background-image: url(../img/bg/实验室.jpg);
+}
+
+.bg16{
+	background-image: url(../img/bg/儀式の間.bmp);
+}
+
+.bg17{
+	background-image: url(../img/bg/儀式の間2.bmp);
+}
